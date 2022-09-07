@@ -51,7 +51,7 @@ const Navbar = () => {
 
                 <div className="pb-1 flex justify-center">
                     <div className="bg-none p-2 text-black rounded-3xl border-black border-2 hover:bg-black hover:text-white">
-                        <Link href="https://thirdweb.com/goerli/nft-collection/0x702Fd82012d5995E2F23c61f5045BC170679069e">
+                        <Link href="https://thirdweb.com/goerli/0xA5Da6e75609bfb6c79feeeAAE5E40Ee943A0DF02/nfts">
                             Ownerships
                         </Link>
                     </div>
